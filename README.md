@@ -1,4 +1,4 @@
-# DevOps-BT-react-nodejs-example
+# DevOps-04-BT-react-nodejs-example
 
 A simple JavaScript application using npm as its package manager.
 
@@ -29,4 +29,5 @@ npm start
 
 ## Acknowledgements
 
-This project was created as part of the DevOps Bootcamp by **TechWorld with Nana**.
+This demo project was created as part of the DevOps Bootcamp by **TechWorld with Nana**.<br>
+Many thanks to Nana for creating such a comprehensive and practical learning experience.
